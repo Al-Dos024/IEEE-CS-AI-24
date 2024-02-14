@@ -1,0 +1,3 @@
+This is a sample text file.
+It contains some sample text that we will use for testing our program.
+The program will count the occurrences of each word in this text.
